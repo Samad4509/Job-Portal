@@ -1,4 +1,4 @@
-# About Joblister
+# Job Portal
 Joblister is made with laravel 8 and vue js. <br/>
 Having user,author,admin role and permissions <br/>
 Live : [Click Me](http://joblister-laravel-8.herokuapp.com) <br/>
@@ -43,12 +43,6 @@ border="0" /></a>
 
 > run composer update instead of composer install
 > also run php artisan key:generate
-
-## 1. Clone the repository
-
-> https://github.com/nishangupta/joblister-laravel-8.git
-
-<br />
 
 ## 2. Set the basic config
 
