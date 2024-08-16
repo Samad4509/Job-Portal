@@ -1,0 +1,11 @@
+
+  .banner-image {
+    background-image: url('../banner/banner.jpg'); /* Specify the path to your background image */
+    background-size: cover; /* Cover the entire section */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    padding-top: 4rem; /* Optional: Adjust padding to suit your layout */
+    padding-bottom: 4rem; /* Optional: Adjust padding to suit your layout */
+    color: #fff; /* Optional: Set text color to white for better contrast */
+  }
+
